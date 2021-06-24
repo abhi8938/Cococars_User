@@ -1,0 +1,94 @@
+{
+    "project_info": {
+      "project_number": "683799045709",
+      "firebase_url": "https://cococars-firebase.firebaseio.com",
+      "project_id": "cococars-firebase",
+      "storage_bucket": "cococars-firebase.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:683799045709:android:d10e16988ad25fc8",
+          "android_client_info": {
+            "package_name": "com.coco.cococars"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "683799045709-r10hc0l06m28urrlc4tountjmesbbkl7.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.coco.cococars",
+              "certificate_hash": "1b3ff5afdc5862b76f48c078d70a6d28b23acdb5"
+            }
+          },
+          {
+            "client_id": "683799045709-kb97ro214miv040gkq9i7g4olsu2pfps.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCk0H9VXdC8TVHy5qNV_54kIfchOaEL_QI"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "683799045709-kb97ro214miv040gkq9i7g4olsu2pfps.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:683799045709:android:fe121b31d8d50319",
+          "android_client_info": {
+            "package_name": "com.cococars.coco"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "683799045709-8aiuvblmej9ndv9tt4c2kngk0hgucs2h.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.cococars.coco",
+              "certificate_hash": "21895c9575004971af25634f27657aae46e2aa4e"
+            }
+          },
+          {
+            "client_id": "683799045709-m9719319nu4s6hcu9un9rpv261i00ifm.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.cococars.coco",
+              "certificate_hash": "1b3ff5afdc5862b76f48c078d70a6d28b23acdb5"
+            }
+          },
+          {
+            "client_id": "683799045709-kb97ro214miv040gkq9i7g4olsu2pfps.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCk0H9VXdC8TVHy5qNV_54kIfchOaEL_QI"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "683799045709-kb97ro214miv040gkq9i7g4olsu2pfps.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
+  

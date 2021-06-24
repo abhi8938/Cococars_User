@@ -1,0 +1,57 @@
+{
+  "name": "CocoCars",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "autobind-decorator": "^2.4.0",
+    "axios": "^0.19.0",
+    "geofirestore": "^3.3.1",
+    "history": "^4.9.0",
+    "intl": "1.2.4",
+    "mobx": "^5.9.4",
+    "mobx-react": "^5.4.4",
+    "mobx-react-router": "^4.0.7",
+    "querystring": "^0.2.0",
+    "react": "16.8.3",
+    "react-native": "^0.59.10",
+    "react-native-cancelable-fetch": "^0.1.1",
+    "react-native-firebase": "^5.4.2",
+    "react-native-fs": "^2.14.1",
+    "react-native-image-picker": "^0.28.1",
+    "react-native-image-resizer": "^1.0.1",
+    "react-native-maps": "^0.24.2",
+    "react-native-modal-datetime-picker": "^7.4.2",
+    "react-native-numeric-input": "^1.8.0",
+    "react-native-popup-dialog": "^0.18.2",
+    "react-native-responsive-screen": "^1.2.2",
+    "react-native-vector-icons": "^6.5.0",
+    "react-native-view-pdf": "^0.10.1",
+    "react-router": "^5.0.0",
+    "rn-range-slider": "^1.2.8"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/plugin-proposal-decorators": "^7.4.4",
+    "@babel/runtime": "^7.4.4",
+    "@types/history": "^4.7.2",
+    "@types/jest": "^24.0.13",
+    "@types/react": "^16.8.17",
+    "@types/react-native": "^0.57.57",
+    "@types/react-router": "^5.0.1",
+    "@types/react-test-renderer": "^16.8.1",
+    "babel-jest": "^24.8.0",
+    "debounce-decorator": "^1.0.6",
+    "jest": "^24.8.0",
+    "metro-react-native-babel-preset": "^0.54.1",
+    "react-native-svg-asset-plugin": "^0.1.2",
+    "react-test-renderer": "16.8.3",
+    "typescript": "^3.4.5"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

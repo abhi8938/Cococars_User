@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_perm_identity</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Action" transform="translate(-388.000000, -628.000000)" fill="#FFFFFF">
+            <g id="ic_perm_identity" transform="translate(388.000000, 628.000000)">
+                <g id="Icon-24px">
+                    <path d="M8,1.9 C9.16,1.9 10.1,2.84 10.1,4 C10.1,5.16 9.16,6.1 8,6.1 C6.84,6.1 5.9,5.16 5.9,4 C5.9,2.84 6.84,1.9 8,1.9 L8,1.9 Z M8,10.9 C10.97,10.9 14.1,12.36 14.1,13 L14.1,14.1 L1.9,14.1 L1.9,13 C1.9,12.36 5.03,10.9 8,10.9 L8,10.9 Z M8,0 C5.79,0 4,1.79 4,4 C4,6.21 5.79,8 8,8 C10.21,8 12,6.21 12,4 C12,1.79 10.21,0 8,0 L8,0 Z M8,9 C5.33,9 0,10.34 0,13 L0,16 L16,16 L16,13 C16,10.34 10.67,9 8,9 L8,9 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

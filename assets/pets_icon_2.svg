@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="57px" viewBox="0 0 60 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_pets</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ProfileScreenAbout" transform="translate(-569.000000, -1475.000000)">
+            <g id="PreferencesGroup" transform="translate(122.000000, 1466.000000)">
+                <g id="ic_pets" transform="translate(441.000000, 0.000000)">
+                    <g id="Icon-24px">
+                        <circle id="Oval" fill="#000000" cx="13.5" cy="28.5" r="7.5"></circle>
+                        <circle id="Oval" fill="#000000" cx="27" cy="16.5" r="7.5"></circle>
+                        <circle id="Oval" fill="#000000" cx="45" cy="16.5" r="7.5"></circle>
+                        <circle id="Oval" fill="#000000" cx="58.5" cy="28.5" r="7.5"></circle>
+                        <path d="M52.02,44.58 C49.41,41.52 47.22,38.91 44.58,35.85 C43.2,34.23 41.43,32.61 39.33,31.89 C39,31.77 38.67,31.68 38.34,31.62 C37.59,31.5 36.78,31.5 36,31.5 C35.22,31.5 34.41,31.5 33.63,31.65 C33.3,31.71 32.97,31.8 32.64,31.92 C30.54,32.64 28.8,34.26 27.39,35.88 C24.78,38.94 22.59,41.55 19.95,44.61 C16.02,48.54 11.19,52.89 12.09,58.98 C12.96,62.04 15.15,65.07 19.08,65.94 C21.27,66.39 28.26,64.62 35.7,64.62 L36.24,64.62 C43.68,64.62 50.67,66.36 52.86,65.94 C56.79,65.07 58.98,62.01 59.85,58.98 C60.78,52.86 55.95,48.51 52.02,44.58 L52.02,44.58 Z" id="Shape" fill="#000000"></path>
+                        <polygon id="Shape" points="0 0 72 0 72 72 0 72"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

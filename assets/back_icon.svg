@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_arrow_back</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IntroScreen" transform="translate(-71.000000, -136.000000)">
+            <g id="Title-Group" transform="translate(1.000000, 0.000000)">
+                <g id="ic_arrow_back" transform="translate(56.000000, 122.000000)">
+                    <g id="Icon-24px">
+                        <polygon id="Shape" points="0 0 84 0 84 84 0 84"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="70 38.5 27.405 38.5 46.97 18.935 42 14 14 42 42 70 46.935 65.065 27.405 45.5 70 45.5"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

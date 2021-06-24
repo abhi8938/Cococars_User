@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="60px" viewBox="0 0 70 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_smoking_rooms</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ProfileScreenAbout" transform="translate(-273.000000, -1473.000000)">
+            <g id="PreferencesGroup" transform="translate(122.000000, 1466.000000)">
+                <g id="ic_smoking_rooms" transform="translate(144.000000, 0.000000)">
+                    <g id="Icon-24px">
+                        <path d="M7,56 L59.5,56 L59.5,66.5 L7,66.5 L7,56 Z M71.75,56 L77,56 L77,66.5 L71.75,66.5 L71.75,56 Z M63,56 L68.25,56 L68.25,66.5 L63,66.5 L63,56 Z M65.975,27.055 C68.145,24.92 69.475,21.98 69.475,18.725 C69.475,12.25 64.225,7 57.75,7 L57.75,12.25 C61.32,12.25 64.225,15.155 64.225,18.725 C64.225,22.295 61.32,25.2 57.75,25.2 L57.75,30.45 C65.59,30.45 71.75,36.855 71.75,44.695 L71.75,52.5 L77,52.5 L77,44.66 C77,36.89 72.52,30.17 65.975,27.055 L65.975,27.055 Z M56.105,35.7 L50.75,35.7 C47.18,35.7 44.275,32.27 44.275,28.7 C44.275,25.13 47.18,22.575 50.75,22.575 L50.75,17.325 C44.275,17.325 39.025,22.575 39.025,29.05 C39.025,35.525 44.275,40.775 50.75,40.775 L56.105,40.775 C59.78,40.775 63,43.365 63,47.95 L63,52.5 L68.25,52.5 L68.25,46.76 C68.25,40.425 62.65,35.7 56.105,35.7 L56.105,35.7 Z" id="Shape" fill="#a0a0a0"></path>
+                        <polygon id="Shape" points="0 0 84 0 84 84 0 84"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
